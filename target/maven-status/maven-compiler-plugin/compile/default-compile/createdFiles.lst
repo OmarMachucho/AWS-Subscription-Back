@@ -1,0 +1,6 @@
+newsletter\aws\demo\backend\EmailService.class
+newsletter\aws\demo\DemoApplication.class
+newsletter\aws\demo\ServletInitializer.class
+newsletter\aws\demo\backend\EmailDTO.class
+newsletter\aws\demo\backend\EmailController.class
+newsletter\aws\demo\backend\EmailRepository.class
